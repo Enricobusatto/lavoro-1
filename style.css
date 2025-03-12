@@ -1,0 +1,45 @@
+#logo{
+    width: 20%; 
+    display: flex;
+}
+
+.body{
+    padding-left: 27%;
+}
+
+#header{
+    justify-items: center;
+}
+
+.description{
+    background-color:#fffbf1;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+.img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#img1{
+    height: 300px;
+}
+#description-img1{
+    color: rgb(159, 159, 159);
+}
+
+#featured-in{
+    color: rgb(177, 53, 53);
+}
+
+#link1{
+    color: rgb(0, 124, 135);
+}
+#link2{
+    color: rgb(0, 124, 135);
+}
+
