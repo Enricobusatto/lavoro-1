@@ -1,3 +1,9 @@
+html{
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+
 #logo{
     width: 20%; 
     display: flex;
@@ -26,7 +32,8 @@ h1{
     align-items: center;
 }
 #img1{
-    height: 300px;
+    height: 450px;
+    
 }
 #description-img1{
     color: rgb(159, 159, 159);
@@ -34,6 +41,7 @@ h1{
 
 #featured-in{
     color: rgb(177, 53, 53);
+
 }
 
 #link1{
@@ -43,3 +51,10 @@ h1{
     color: rgb(0, 124, 135);
 }
 
+span p{
+    margin-bottom: 0;
+}
+
+hr{
+    border-top: 1px solid rgb(142, 236, 236);
+}
