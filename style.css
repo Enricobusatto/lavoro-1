@@ -21,20 +21,25 @@ html{
     background-color:#fffbf1;
     text-align: center;
     margin: 0;
-    width: 100%;
+    width: 100%; 
 }
+
 h1{
     text-align: center;
 }
+
 .img{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+
 #img1{
     height: 450px;
+    border-radius: 2%;
     
 }
+
 #description-img1{
     color: rgb(159, 159, 159);
 }
@@ -47,6 +52,7 @@ h1{
 #link1{
     color: rgb(0, 124, 135);
 }
+
 #link2{
     color: rgb(0, 124, 135);
 }
@@ -57,4 +63,8 @@ span p{
 
 hr{
     border-top: 1px solid rgb(142, 236, 236);
+}
+
+li{
+    margin: 10px;
 }
